@@ -1,0 +1,23 @@
+# OOPS Dataset Configuration for YOLO
+# 10 classes: charging-cable, earphones, glasses, ipad, keys, paper, pen, student-id, wallet, watch
+# Note: "multiple" folder contains images with multiple objects from classes 0-9, it is not a class itself
+
+path: Dataset  # dataset root dir
+train: train   # train images (relative to 'path')
+val: valid     # val images (relative to 'path')
+test: test     # test images (relative to 'path')
+
+# Classes
+nc: 10  # number of classes
+names:
+  0: charging-cable
+  1: earphones
+  2: glasses
+  3: keys
+  4: paper
+  5: pen
+  6: student-id
+  7: wallet
+  8: watch
+  9: ipad
+
