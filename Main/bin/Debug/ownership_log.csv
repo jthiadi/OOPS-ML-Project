@@ -1,0 +1,179 @@
+ts,obj_id,cls,cx,cy,depth,owner,note
+2025-11-19T22:22:03.483816,0,laptop,1782,172,0.3729,right,owner_change:none->right
+2025-11-19T22:25:35.916502,0,mouse,1066,329,0.7157,right,owner_change:none->right
+2025-11-19T22:25:35.917402,1,mouse,727,183,0.4669,left,owner_change:none->left
+2025-11-19T22:25:35.918043,2,person,975,57,0.1835,left,owner_change:none->left
+2025-11-19T22:25:35.918516,3,book,582,236,0.5314,left,owner_change:none->left
+2025-11-19T22:25:35.919001,4,dining table,1100,273,0.5731,left,owner_change:none->left
+2025-11-19T22:25:36.214487,5,laptop,1340,237,0.6664,left,owner_change:none->left
+2025-11-19T22:25:36.215626,6,keyboard,1339,237,0.6664,left,owner_change:none->left
+2025-11-19T22:25:36.462203,7,person,1152,325,0.6296,left,owner_change:none->left
+2025-11-19T22:25:36.637418,8,person,931,57,0.1311,left,owner_change:none->left
+2025-11-19T22:25:36.638204,9,person,1241,58,0.3425,left,owner_change:none->left
+2025-11-19T22:25:36.638686,10,person,1187,370,0.6783,left,owner_change:none->left
+2025-11-19T22:25:36.639230,11,remote,518,78,0.4861,left,owner_change:none->left
+2025-11-19T22:25:36.639628,12,laptop,511,236,0.6298,left,owner_change:none->left
+2025-11-19T22:25:36.640066,13,cell phone,519,77,0.4853,left,owner_change:none->left
+2025-11-19T22:25:36.826566,14,keyboard,1340,237,0.5671,left,owner_change:none->left
+2025-11-19T22:25:36.827403,15,person,1171,63,0.4188,left,owner_change:none->left
+2025-11-19T22:25:37.042731,16,person,1119,78,0.3915,left,owner_change:none->left
+2025-11-19T22:25:37.043882,17,laptop,1339,237,0.5463,left,owner_change:none->left
+2025-11-19T22:25:37.321634,18,person,1086,158,0.3720,left,owner_change:none->left
+2025-11-19T22:25:37.322408,19,laptop,496,237,0.6321,left,owner_change:none->left
+2025-11-19T22:25:37.323055,20,cell phone,833,195,0.4193,left,owner_change:none->left
+2025-11-19T22:25:37.773068,21,person,1134,59,0.4653,left,owner_change:none->left
+2025-11-19T22:25:37.957135,22,book,496,237,0.5722,left,owner_change:none->left
+2025-11-19T22:25:37.957842,23,book,494,94,0.4527,left,owner_change:none->left
+2025-11-19T22:25:38.356194,24,person,1188,373,0.6403,left,owner_change:none->left
+2025-11-19T22:25:38.564625,25,book,499,236,0.5628,left,owner_change:none->left
+2025-11-19T22:25:38.565462,26,person,1175,58,0.1857,left,owner_change:none->left
+2025-11-19T22:25:38.831915,27,person,1136,322,0.5378,left,owner_change:none->left
+2025-11-19T22:25:38.832873,28,person,1103,319,0.5585,left,owner_change:none->left
+2025-11-19T22:25:39.014127,29,person,921,58,0.1057,left,owner_change:none->left
+2025-11-19T22:25:39.015087,30,book,510,237,0.6117,left,owner_change:none->left
+2025-11-19T22:25:39.204500,31,person,1043,58,0.3036,left,owner_change:none->left
+2025-11-19T22:25:39.452539,32,book,564,238,0.5629,left,owner_change:none->left
+2025-11-19T22:25:39.645263,33,person,1029,306,0.6636,left,owner_change:none->left
+2025-11-19T22:25:40.078916,34,person,864,57,0.1770,left,owner_change:none->left
+2025-11-19T22:25:40.080080,35,person,1113,59,0.3610,left,owner_change:none->left
+2025-11-19T22:25:40.322752,36,person,1182,58,0.3391,left,owner_change:none->left
+2025-11-19T22:25:40.790158,37,book,581,237,0.5783,left,owner_change:none->left
+2025-11-19T22:25:41.837756,38,person,1191,323,0.6896,right,owner_change:none->right
+2025-11-19T22:25:41.838543,39,person,1276,59,0.3776,right,owner_change:none->right
+2025-11-19T22:25:42.178782,40,person,1223,59,0.2453,right,owner_change:none->right
+2025-11-19T22:25:42.179600,41,book,578,237,0.5988,left,owner_change:none->left
+2025-11-19T22:25:42.973571,42,laptop,575,237,0.5775,left,owner_change:none->left
+2025-11-19T22:25:43.181576,43,book,576,238,0.5810,left,owner_change:none->left
+2025-11-19T22:25:43.631149,44,person,1163,58,0.3789,right,owner_change:none->right
+2025-11-19T22:25:43.865705,45,person,1055,325,0.7028,left,owner_change:none->left
+2025-11-19T22:25:43.866680,46,laptop,576,237,0.5622,left,owner_change:none->left
+2025-11-19T22:25:44.061995,47,person,1020,59,0.4617,left,owner_change:none->left
+2025-11-19T22:25:45.326230,48,laptop,1325,239,0.5115,left,owner_change:none->left
+2025-11-19T22:25:45.327215,49,keyboard,1325,238,0.5100,left,owner_change:none->left
+2025-11-19T22:25:45.327722,50,dining table,918,279,0.5007,left,owner_change:none->left
+2025-11-19T22:25:45.524414,51,laptop,485,240,0.4154,left,owner_change:none->left
+2025-11-19T22:25:45.525215,52,keyboard,1251,240,0.4444,left,owner_change:none->left
+2025-11-19T22:25:45.525633,53,cell phone,833,196,0.3484,left,owner_change:none->left
+2025-11-19T22:25:46.042150,54,book,182,204,0.3422,left,owner_change:none->left
+2025-11-19T22:25:46.043073,55,mouse,517,295,0.4399,left,owner_change:none->left
+2025-11-19T22:25:46.043736,56,mouse,572,289,0.4287,left,owner_change:none->left
+2025-11-19T22:25:46.245422,57,laptop,432,247,0.3840,left,owner_change:none->left
+2025-11-19T22:25:46.246383,58,cell phone,176,206,0.3417,left,owner_change:none->left
+2025-11-19T22:25:46.422020,59,mouse,160,306,0.4108,left,owner_change:none->left
+2025-11-19T22:25:46.636526,60,mouse,1062,382,0.4412,left,owner_change:none->left
+2025-11-19T22:25:46.637277,61,keyboard,1199,292,0.3714,left,owner_change:none->left
+2025-11-19T22:25:46.637858,62,person,1009,340,0.3999,left,owner_change:none->left
+2025-11-19T22:25:47.056052,63,book,181,220,0.3540,left,owner_change:none->left
+2025-11-19T22:25:48.324604,64,mouse,1062,429,0.4182,left,owner_change:none->left
+2025-11-19T22:25:48.325454,65,person,1292,71,0.7884,right,owner_change:none->right
+2025-11-19T22:25:48.947706,66,person,524,85,0.1468,left,owner_change:none->left
+2025-11-19T22:25:48.948519,67,cell phone,847,263,0.3318,left,owner_change:none->left
+2025-11-19T22:25:49.171784,68,person,457,79,0.1916,left,owner_change:none->left
+2025-11-19T22:25:49.172729,69,person,782,88,0.2370,left,owner_change:none->left
+2025-11-19T22:25:49.415836,70,person,652,98,0.3989,left,owner_change:none->left
+2025-11-19T22:25:50.019321,71,cell phone,726,257,0.3242,left,owner_change:none->left
+2025-11-19T22:25:50.020213,72,mouse,420,299,0.3566,left,owner_change:none->left
+2025-11-19T22:25:50.637648,73,cell phone,710,279,0.3039,left,owner_change:none->left
+2025-11-19T22:25:51.138931,74,cell phone,818,306,0.3367,left,owner_change:none->left
+2025-11-19T22:25:51.139812,75,cell phone,703,290,0.3107,left,owner_change:none->left
+2025-11-19T22:25:51.401461,76,mouse,100,415,0.4441,left,owner_change:none->left
+2025-11-19T22:25:51.630587,77,laptop,377,367,0.3438,left,owner_change:none->left
+2025-11-19T22:25:51.631495,78,cell phone,112,319,0.3222,left,owner_change:none->left
+2025-11-19T22:25:52.227521,79,cell phone,811,315,0.3641,left,owner_change:none->left
+2025-11-19T22:25:52.512021,80,person,527,384,0.4434,left,owner_change:none->left
+2025-11-19T22:25:53.157162,81,cell phone,806,316,0.3302,left,owner_change:none->left
+2025-11-19T22:25:53.395718,82,person,455,114,0.2643,left,owner_change:none->left
+2025-11-19T22:25:53.396567,83,book,370,369,0.6636,left,owner_change:none->left
+2025-11-19T22:25:53.397057,84,book,314,373,0.3836,left,owner_change:none->left
+2025-11-19T22:25:53.596975,85,laptop,366,369,0.4063,left,owner_change:none->left
+2025-11-19T22:25:53.597878,86,person,384,112,0.2880,left,owner_change:none->left
+2025-11-19T22:25:53.930098,87,handbag,986,70,0.2070,left,owner_change:none->left
+2025-11-19T22:25:54.690074,88,person,710,109,0.0299,left,owner_change:none->left
+2025-11-19T22:25:54.694638,89,person,89,108,0.2360,left,owner_change:none->left
+2025-11-19T22:25:54.700201,90,book,343,366,0.4235,left,owner_change:none->left
+2025-11-19T22:25:54.701975,91,cell phone,780,311,0.3783,left,owner_change:none->left
+2025-11-19T22:25:55.310328,92,laptop,432,390,0.4437,left,owner_change:none->left
+2025-11-19T22:25:55.311070,93,cell phone,160,341,0.4170,left,owner_change:none->left
+2025-11-19T22:25:55.311640,94,mouse,150,446,0.5851,left,owner_change:none->left
+2025-11-19T22:25:55.312093,95,backpack,1072,78,0.0580,right,owner_change:none->right
+2025-11-19T22:25:55.312518,96,person,409,389,0.4439,left,owner_change:none->left
+2025-11-19T22:25:55.501998,97,person,815,49,0.1734,left,owner_change:none->left
+2025-11-19T22:25:55.704251,98,person,467,120,0.8801,left,owner_change:none->left
+2025-11-19T22:25:55.705058,99,person,869,122,0.1853,left,owner_change:none->left
+2025-11-19T22:25:55.705545,100,book,326,397,0.4828,left,owner_change:none->left
+2025-11-19T22:25:55.706149,101,mouse,770,322,0.4117,left,owner_change:none->left
+2025-11-19T22:25:55.706575,102,cell phone,770,322,0.4117,left,owner_change:none->left
+2025-11-19T22:25:56.079397,103,person,966,124,0.1129,left,owner_change:none->left
+2025-11-19T22:25:56.080256,104,person,666,121,0.3826,left,owner_change:none->left
+2025-11-19T22:25:56.080757,105,cell phone,889,338,0.4481,left,owner_change:none->left
+2025-11-19T22:25:56.384792,106,person,1044,123,0.1110,left,owner_change:none->left
+2025-11-19T22:25:56.687038,107,cell phone,897,338,0.3881,left,owner_change:none->left
+2025-11-19T22:25:57.019295,108,person,1181,125,0.2042,left,owner_change:none->left
+2025-11-19T22:25:57.025571,109,book,195,340,0.5025,left,owner_change:none->left
+2025-11-19T22:25:57.410801,110,laptop,400,340,0.9487,left,owner_change:none->left
+2025-11-19T22:25:57.411794,111,cell phone,912,341,0.4424,left,owner_change:none->left
+2025-11-19T22:25:57.611962,112,person,1271,127,0.3137,left,owner_change:none->left
+2025-11-19T22:25:57.612736,113,person,557,127,0.3808,left,owner_change:none->left
+2025-11-19T22:25:57.613287,114,handbag,986,78,0.1762,left,owner_change:none->left
+2025-11-19T22:25:57.613792,115,dining table,333,414,0.9076,left,owner_change:none->left
+2025-11-19T22:25:57.826861,116,cell phone,820,329,0.3946,left,owner_change:none->left
+2025-11-19T22:25:58.223384,117,backpack,1028,77,0.1045,left,owner_change:none->left
+2025-11-19T22:25:58.532235,118,person,1348,133,0.2560,right,owner_change:none->right
+2025-11-19T22:25:58.540233,119,cell phone,859,335,0.4325,left,owner_change:none->left
+2025-11-19T22:25:59.007909,120,bench,363,421,0.9215,left,owner_change:none->left
+2025-11-19T22:25:59.010830,121,cell phone,975,353,0.4464,left,owner_change:none->left
+2025-11-19T22:25:59.296479,122,person,1347,134,0.2726,left,owner_change:none->left
+2025-11-19T22:25:59.297489,123,person,678,129,0.3282,left,owner_change:none->left
+2025-11-19T22:25:59.986741,124,cell phone,979,353,0.4591,right,owner_change:none->right
+2025-11-19T22:25:59.987572,125,person,584,129,0.8359,left,owner_change:none->left
+2025-11-19T22:25:59.988032,126,handbag,1048,62,0.1598,right,owner_change:none->right
+2025-11-19T22:26:00.409773,127,person,1313,132,0.3652,right,owner_change:none->right
+2025-11-19T22:26:00.412014,128,cell phone,860,335,0.4549,left,owner_change:none->left
+2025-11-19T22:26:00.416962,129,person,751,129,0.3431,left,owner_change:none->left
+2025-11-19T22:26:01.630239,130,mouse,867,324,0.4181,left,owner_change:none->left
+2025-11-19T22:26:01.866360,131,cell phone,984,341,0.4440,left,owner_change:none->left
+2025-11-19T22:26:01.873059,132,handbag,1014,78,0.1615,right,owner_change:none->right
+2025-11-19T22:26:02.361501,133,person,746,118,0.3139,left,owner_change:none->left
+2025-11-19T22:26:02.362259,132,handbag,1012,78,0.2293,left,owner_change:right->left
+2025-11-19T22:26:02.362774,134,cell phone,987,334,0.4211,left,owner_change:none->left
+2025-11-19T22:26:02.626317,135,person,809,113,0.3337,left,owner_change:none->left
+2025-11-19T22:26:02.627078,136,cell phone,877,302,0.4244,left,owner_change:none->left
+2025-11-19T22:26:03.416916,137,mouse,1247,459,0.5407,right,owner_change:none->right
+2025-11-19T22:26:03.712525,138,person,937,102,0.2458,left,owner_change:none->left
+2025-11-19T22:26:03.966185,139,person,1268,371,0.5194,right,owner_change:none->right
+2025-11-19T22:26:03.966866,140,cell phone,999,287,0.4524,left,owner_change:none->left
+2025-11-19T22:26:04.191552,141,handbag,1010,77,0.1097,left,owner_change:none->left
+2025-11-19T22:26:04.192313,142,mouse,886,270,0.4622,left,owner_change:none->left
+2025-11-19T22:26:04.192778,143,person,1319,373,0.5296,right,owner_change:none->right
+2025-11-19T22:26:04.597712,144,cell phone,1005,278,0.4106,left,owner_change:none->left
+2025-11-19T22:26:04.598378,145,person,1294,369,0.4790,right,owner_change:none->right
+2025-11-19T22:26:04.939557,146,mouse,319,377,0.4505,left,owner_change:none->left
+2025-11-19T22:26:04.947000,147,cell phone,323,280,0.3622,left,owner_change:none->left
+2025-11-19T22:26:04.962868,148,book,484,331,0.4213,left,owner_change:none->left
+2025-11-19T22:26:05.200573,149,laptop,585,327,0.3899,right,owner_change:none->right
+2025-11-19T22:26:05.410896,150,mouse,902,259,0.3990,right,owner_change:none->right
+2025-11-19T22:26:05.411792,151,person,846,29,0.0863,right,owner_change:none->right
+2025-11-19T22:26:05.605101,152,person,1348,96,0.3740,right,owner_change:none->right
+2025-11-19T22:26:05.605781,153,person,1041,93,0.2775,right,owner_change:none->right
+2025-11-19T22:26:05.783686,154,person,1267,95,0.3896,right,owner_change:none->right
+2025-11-19T22:26:05.998380,155,person,1350,96,0.5766,right,owner_change:none->right
+2025-11-19T22:26:05.999082,156,person,935,319,0.7585,right,owner_change:none->right
+2025-11-19T22:26:05.999543,157,person,943,93,0.4248,right,owner_change:none->right
+2025-11-19T22:26:05.999921,158,person,1183,95,0.5114,right,owner_change:none->right
+2025-11-19T22:26:06.226059,159,person,1344,391,0.8522,right,owner_change:none->right
+2025-11-19T22:26:06.561084,160,person,1331,96,0.4759,right,owner_change:none->right
+2025-11-19T22:26:06.563194,161,cell phone,1022,272,0.6896,right,owner_change:none->right
+2025-11-19T22:26:06.568334,162,person,838,105,0.3532,right,owner_change:none->right
+2025-11-19T22:26:06.573368,163,person,842,339,0.7741,right,owner_change:none->right
+2025-11-19T22:26:07.677106,164,person,798,402,0.8532,right,owner_change:none->right
+2025-11-19T22:26:07.706799,165,cell phone,1018,275,0.6809,right,owner_change:none->right
+2025-11-19T22:26:08.040154,166,person,745,396,0.8600,right,owner_change:none->right
+2025-11-19T22:26:08.043685,167,person,747,113,0.7170,right,owner_change:none->right
+2025-11-19T22:26:08.441798,168,person,686,400,0.8762,right,owner_change:none->right
+2025-11-19T22:26:08.442685,169,person,684,118,0.7101,right,owner_change:none->right
+2025-11-19T22:26:08.725867,170,person,731,377,0.8365,right,owner_change:none->right
+2025-11-19T22:26:08.726620,171,person,741,108,0.5365,right,owner_change:none->right
+2025-11-19T22:26:08.727158,172,cell phone,979,280,0.6908,right,owner_change:none->right
+2025-11-19T22:26:08.975111,173,person,92,83,0.4446,left,owner_change:none->left
+2025-11-19T22:26:08.975941,174,mouse,1229,431,0.9783,right,owner_change:none->right
+                                                                                                                                                                           
