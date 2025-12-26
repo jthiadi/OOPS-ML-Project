@@ -68,6 +68,8 @@ Outputs:
 - face_recognition_model.pkl – trained SVM model
 - label_encoder.pkl – label encoder
 
+Note: This two outputs need to be moved inside Main/ directory of the project to be used
+
 ### 3. Evaluate the Model
 ```bash
 python evaluate_metrics.py --test-dataset face_dataset_test
@@ -87,22 +89,34 @@ python illustration.py
 Output:
 - knn_vs_svm.png
 
-# Object Detection
-Contains all files related to the object detection pipeline, including the dataset, configuration files, trained model weights, and training scripts.
+# Object Recognition
+This includes the dataset, training, evaluation, and real-time inference using a webcam, for face recognition, before combining it with other models.
 
----
-
-## Files overview
+## Files Overview
 ```bash
-objecttrain.py
+dataset/
 ```
-Used to train and evaluate a YOLO-based object detection model on the OOPS dataset.
-- Loads a pretrained YOLO11-L model with COCO weights 
-- Fine-tunes the model on a custom 11-class dataset
-- Freezes first 15 network layers to preserve general visual features
-- Configures training parameters such as image size, batch size, and learning rate
-- Saves model checkpoints periodically every 5 epochs during training
-- Evaluates the trained model 
+Contains the object detection dataset structured in YOLO format.
+- Includes training, validation, and test images
+- Corresponding annotation files with bounding boxes and class labels
+- Organized for direct use with Ultralytics YOLO
+
+```bash
+data_oops.yaml
+```
+Dataset configuration file for YOLO training.
+- Defines dataset paths (train/val/test)
+- Lists all object class names
+- Used by YOLO during training and evaluation
+
+```bash
+training.py
+```
+Main script used to train the object detection model.
+- Loads a pretrained YOLO model
+- Trains on the custom dataset
+- Configures epochs, image size, and training parameters
+- Outputs training metrics and logs
 
 ```bash
 delete.py
@@ -122,10 +136,19 @@ Scans YOLO label files in train, valid, and test folders
 - Helps debug dataset labeling issues
 
 ```bash
-data_oops.yaml
+label.py
 ```
-Dataset configuration file for YOLO training.
-- Defines dataset paths (train, valid, test)
-- Specifies class names and class IDs
-- Used during model training and evaluation
+Used to relabel YOLO annotation files by modifying class IDs in-place.
+- Iterates through YOLO .txt label files
+- Updates class IDs to ensure consistency
+- Useful for fixing incorrect or inconsistent annotations
 
+```bash
+best.pt
+```
+Trained YOLO model weights.
+- Best-performing checkpoint saved during training
+- Used for inference and evaluation
+- Can be loaded for real-time or offline object detection
+  
+Note: This pretrained output need to be moved inside Main/ directory of the project to be used
