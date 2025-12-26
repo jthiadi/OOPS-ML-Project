@@ -1,9 +1,3 @@
-# Object Ownership Project System (OOPS)
-
-This project is an **Object Ownership Protection System** built as part of the *Introduction to Machine Learning* final project.  
-It combines several **Machine Learning** components, including **Object Detection**, **Face Recognition**, **Pose Detection**, **Prediction**, combined with **FastAPI backend**, and a **Flutter web frontend**.
-
-The system performs object-related ownership logic processing in the main code and seat state prediction using trained machine learning models. The functionality is exposed through an API that is consumed by a Flutter web application.
 ## Requirements
 
 - Python 3.11+
@@ -13,9 +7,13 @@ The system performs object-related ownership logic processing in the main code a
 ## Configuration
 
 Before running the project, the following values must be configure:
-- 'api.py': Set the required API key.
-- 'main.py': Configure camera input sources (IP cameras or USB camera indices).
+- 'Main/api.py': Set the required API keys.
+- 'Main/main.py': Configure camera input sources (IP cameras or USB camera indices).
 
+# Project Inferance
+```bash
+cd Main/
+```
 ## Setup Instructions
 
 1. Create virtual environtment
@@ -46,13 +44,22 @@ flutter run -d chrome
 python main.py
 ```
 
-## Authors
-1. A. M. Wijaya
-2. E. L. Suryasatria
-3. J. N. Hartono
-4. J. Thiadi
-5. M. A. Salim
-6. S. Indrawan
+# Left-Behind Model 
+```bash
+cd decision_model
+```
+
+1. Synthetic data generation
+```bash
+python generate_data.py
+```
+2. Prediction model training
+```bash
+python train.py
+```
+
+The model will be located in Main/decision_model/ as lost_item_rf_model.pkl
+
 
 
 
