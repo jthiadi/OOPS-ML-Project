@@ -4,6 +4,9 @@ This project is an **Object Ownership Protection System** built as part of the *
 It combines several **Machine Learning** components, including **Object Detection**, **Face Recognition**, **Pose Detection**, **Prediction**, combined with **FastAPI backend**, and a **Flutter web frontend**.
 
 The system performs object-related ownership logic processing in the main code and seat state prediction using trained machine learning models. The functionality is exposed through an API that is consumed by a Flutter web application.
+[![Presentation](https://img.shields.io/badge/Watch%20Video-Google%20Drive-red)](https://drive.google.com/file/d/1VWSRN9Q6dr1wqqpN1aTuu2ac1lgoRiuT/view?usp=sharing)
+
+
 ## Requirements
 
 - Python 3.11+
