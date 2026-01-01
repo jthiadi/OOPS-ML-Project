@@ -5,7 +5,7 @@ It combines several **Machine Learning** components, including **Object Detectio
 
 The system performs object-related ownership logic processing in the main code and seat state prediction using trained machine learning models. The functionality is exposed through an API that is consumed by a Flutter web application.
 
-[![Presentation](https://img.shields.io/badge/Watch%20Video-Google%20Drive-red)](https://drive.google.com/file/d/1VWSRN9Q6dr1wqqpN1aTuu2ac1lgoRiuT/view?usp=sharing)
+[![Presentation](https://img.shields.io/badge/Watch%20Video-Google%20Drive-red)](https://drive.google.com/file/d/1rYiPIL9YPgbuSo-c-9x5wip5cRVGwDf1/view?usp=sharing)
 
 
 ## Requirements
